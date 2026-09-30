@@ -1,4 +1,4 @@
-// Vercel Web Analytics for this static HTML site.
+// Vercel Web Analytics
 window.va = window.va || function () {
   (window.vaq = window.vaq || []).push(arguments);
 };
@@ -10,7 +10,7 @@ if (!document.querySelector('script[data-vercel-analytics]')) {
   analyticsScript.dataset.vercelAnalytics = 'true';
   document.head.appendChild(analyticsScript);
 }
-const menu = document.querySelector('.menu');
+
 // Vercel Speed Insights
 window.si = window.si || function () {
   (window.siq = window.siq || []).push(arguments);
@@ -23,18 +23,27 @@ if (!document.querySelector('script[data-vercel-speed-insights]')) {
   speedScript.dataset.vercelSpeedInsights = 'true';
   document.head.appendChild(speedScript);
 }
+
+// Mobile navigation
 const menu = document.querySelector('.menu');
 const nav = document.querySelector('.navlinks');
-if(menu && nav){
-  menu.addEventListener('click', () => nav.classList.toggle('open'));
+
+if (menu && nav) {
+  menu.addEventListener('click', () => {
+    nav.classList.toggle('open');
+  });
 }
 
+// Article search
 const search = document.querySelector('#articleSearch');
-if(search){
+
+if (search) {
   search.addEventListener('input', e => {
     const q = e.target.value.toLowerCase().trim();
+
     document.querySelectorAll('[data-article-card]').forEach(card => {
-      card.style.display = card.innerText.toLowerCase().includes(q) ? '' : 'none';
+      card.style.display =
+        card.innerText.toLowerCase().includes(q) ? '' : 'none';
     });
   });
 }
