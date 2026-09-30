@@ -10,7 +10,19 @@ if (!document.querySelector('script[data-vercel-analytics]')) {
   analyticsScript.dataset.vercelAnalytics = 'true';
   document.head.appendChild(analyticsScript);
 }
+const menu = document.querySelector('.menu');
+// Vercel Speed Insights
+window.si = window.si || function () {
+  (window.siq = window.siq || []).push(arguments);
+};
 
+if (!document.querySelector('script[data-vercel-speed-insights]')) {
+  const speedScript = document.createElement('script');
+  speedScript.defer = true;
+  speedScript.src = '/_vercel/speed-insights/script.js';
+  speedScript.dataset.vercelSpeedInsights = 'true';
+  document.head.appendChild(speedScript);
+}
 const menu = document.querySelector('.menu');
 const nav = document.querySelector('.navlinks');
 if(menu && nav){
