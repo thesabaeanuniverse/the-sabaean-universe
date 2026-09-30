@@ -1,25 +1,579 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0"><channel>
-<title>THE SABAEAN UNIVERSE</title>
-<link>https://thesabaeanuniverse.com/</link>
-<description>Articles on the ancient Horn, archaeology, astronomy, and HCM-364.</description>
-<item><title>Aksum: A Red Sea Power in Late Antiquity</title><link>https://thesabaeanuniverse.com/article-aksum-power.html</link><description>A source-led overview of Aksumite power and monuments.</description></item>
-<item><title>Adulis: The Port Connecting Aksum to the Red Sea</title><link>https://thesabaeanuniverse.com/article-adulis.html</link><description>Port archaeology and Red Sea exchange.</description></item>
-<item><title>Ezana: Kingship, Inscriptions, and Religious Change</title><link>https://thesabaeanuniverse.com/article-ezana-inscriptions.html</link><description>Royal inscriptions and religious symbolism.</description></item>
-<item><title>Aksumite Coinage: Kings, Symbols, and Long-Distance Exchange</title><link>https://thesabaeanuniverse.com/article-aksum-coins.html</link><description>Coins as historical evidence.</description></item>
-<item><title>The Stelae of Aksum: Monument, Tomb, and Royal Memory</title><link>https://thesabaeanuniverse.com/article-stelae.html</link><description>Monumental stone, burials, and elite display.</description></item>
+<?xml version="1.0" encoding="UTF-8"?>
 
-<item><title>The Great Temple at Yeha: Architecture, Cult, and Evidence</title><link>https://thesabaeanuniverse.com/article-almaqah-yeha.html</link><description>Article 1 in Almaqah &amp; the Inscribed Record.</description></item>
-<item><title>Meqaber Gaʿewa: A Temple, a Royal Dedication, and a Political Network</title><link>https://thesabaeanuniverse.com/article-meqaber-gaewa.html</link><description>Article 2 in Almaqah &amp; the Inscribed Record.</description></item>
-<item><title>Royal Dedications: What an Inscription Can Actually Tell Us</title><link>https://thesabaeanuniverse.com/article-royal-dedications.html</link><description>Article 3 in Almaqah &amp; the Inscribed Record.</description></item>
-<item><title>Almaqah: Evidence, Interpretation, and Later Reconstruction</title><link>https://thesabaeanuniverse.com/article-almaqah-evidence.html</link><description>Article 4 in Almaqah &amp; the Inscribed Record.</description></item>
-<item><title>Visual Epigraphy: How This Archive Uses Ancient Stone Images</title><link>https://thesabaeanuniverse.com/article-visual-epigraphy.html</link><description>Article 5 in Almaqah &amp; the Inscribed Record.</description></item>
+<rss
+  version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+
+  <title>THE SABAEAN UNIVERSE</title>
+
+  <link>https://thesabaeanuniverse.com/</link>
+
+  <description>
+    Source-led research on the ancient Horn, DʿMT, Aksum, Almaqah,
+    epigraphy, ancient astronomy, calendar mechanics, and HCM-364.
+  </description>
+
+  <language>en</language>
+
+  <atom:link
+    href="https://thesabaeanuniverse.com/feed.xml"
+    rel="self"
+    type="application/rss+xml" />
 
 
-<item><title>The 364-Day Year: What the Ancient Texts Actually Describe</title><link>https://thesabaeanuniverse.com/article-364-day-year.html</link><description>Article 1 in Ancient Astronomy &amp; Calendar Mechanics.</description></item>
-<item><title>The Book of Luminaries: Gates, Sun, and Schematic Astronomy</title><link>https://thesabaeanuniverse.com/article-book-of-luminaries.html</link><description>Article 2 in Ancient Astronomy &amp; Calendar Mechanics.</description></item>
-<item><title>Horizon Astronomy: How Landscapes Can Become Calendars</title><link>https://thesabaeanuniverse.com/article-horizon-astronomy.html</link><description>Article 3 in Ancient Astronomy &amp; Calendar Mechanics.</description></item>
-<item><title>Venus: Why the Morning Star Is Such a Powerful Sky Marker</title><link>https://thesabaeanuniverse.com/article-venus-morning-star.html</link><description>Article 4 in Ancient Astronomy &amp; Calendar Mechanics.</description></item>
-<item><title>Testing HCM-364: From Reconstruction to Research Program</title><link>https://thesabaeanuniverse.com/article-testing-hcm364.html</link><description>Article 5 in Ancient Astronomy &amp; Calendar Mechanics.</description></item>
+  <!-- ========================================================= -->
+  <!-- SERIES 01 — DʿMT & THE EARLY HORN                        -->
+  <!-- ========================================================= -->
 
-</channel></rss>
+
+  <item>
+
+    <title>
+      DʿMT: What the Evidence Actually Supports
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-dmt.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-dmt.html
+    </guid>
+
+    <category>
+      DʿMT &amp; the Early Horn
+    </category>
+
+    <description>
+      An evidence-led examination of DʿMT, chronology, political scale,
+      inscriptions, Yeha, regional connections, and the limits of
+      reconstruction.
+    </description>
+
+  </item>
+
+
+  <item>
+
+    <title>
+      Yeha: Monument, Writing, and a Connected Red Sea World
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-yeha.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-yeha.html
+    </guid>
+
+    <category>
+      DʿMT &amp; the Early Horn
+    </category>
+
+    <description>
+      Monumental architecture, ancient writing, archaeology, Sabaean
+      connections, and Yeha's place within the wider Red Sea world.
+    </description>
+
+  </item>
+
+
+  <item>
+
+    <title>
+      Almaqah in the Northern Horn: What Is Attested?
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-almaqah.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-almaqah.html
+    </guid>
+
+    <category>
+      DʿMT &amp; the Early Horn
+    </category>
+
+    <description>
+      Archaeological and inscriptional evidence for Almaqah in the northern
+      Horn, kept separate from later interpretation and reconstruction.
+    </description>
+
+  </item>
+
+
+  <item>
+
+    <title>
+      Reading the Stones: An Evidence-First Epigraphy Method
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-epigraphy.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-epigraphy.html
+    </guid>
+
+    <category>
+      DʿMT &amp; the Early Horn
+    </category>
+
+    <description>
+      A source-first method for inscription photography, transcription,
+      restoration, transliteration, translation, provenance, and historical
+      interpretation.
+    </description>
+
+  </item>
+
+
+  <item>
+
+    <title>
+      From Pre-Aksumite to Aksumite: Break or Continuity?
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-continuity.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-continuity.html
+    </guid>
+
+    <category>
+      DʿMT &amp; the Early Horn
+    </category>
+
+    <description>
+      Archaeological evidence for continuity, transformation, settlement
+      history, and political development before the mature Aksumite period.
+    </description>
+
+  </item>
+
+
+  <!-- ========================================================= -->
+  <!-- SERIES 02 — AKSUM & THE RED SEA WORLD                    -->
+  <!-- ========================================================= -->
+
+
+  <item>
+
+    <title>
+      Aksum: A Red Sea Power in Late Antiquity
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-aksum-power.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-aksum-power.html
+    </guid>
+
+    <category>
+      Aksum &amp; the Red Sea World
+    </category>
+
+    <description>
+      Political power, monuments, inscriptions, chronology, and Aksum's
+      changing connections across the Red Sea world.
+    </description>
+
+  </item>
+
+
+  <item>
+
+    <title>
+      Adulis: The Port Connecting Aksum to the Red Sea
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-adulis.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-adulis.html
+    </guid>
+
+    <category>
+      Aksum &amp; the Red Sea World
+    </category>
+
+    <description>
+      Port archaeology, maritime exchange, imported goods, highland
+      connections, and the western Indian Ocean trade network.
+    </description>
+
+  </item>
+
+
+  <item>
+
+    <title>
+      Ezana: Kingship, Inscriptions, and Religious Change
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-ezana-inscriptions.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-ezana-inscriptions.html
+    </guid>
+
+    <category>
+      Aksum &amp; the Red Sea World
+    </category>
+
+    <description>
+      Multilingual royal inscriptions, kingship, military claims, coinage,
+      chronology, and changing religious representation under Ezana.
+    </description>
+
+  </item>
+
+
+  <item>
+
+    <title>
+      Aksumite Coinage: Kings, Symbols, and Long-Distance Exchange
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-aksum-coins.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-aksum-coins.html
+    </guid>
+
+    <category>
+      Aksum &amp; the Red Sea World
+    </category>
+
+    <description>
+      Aksumite coins as evidence for rulers, portraits, inscriptions,
+      symbolism, chronology, metallurgy, and long-distance exchange.
+    </description>
+
+  </item>
+
+
+  <item>
+
+    <title>
+      The Stelae of Aksum: Monument, Tomb, and Royal Memory
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-stelae.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-stelae.html
+    </guid>
+
+    <category>
+      Aksum &amp; the Red Sea World
+    </category>
+
+    <description>
+      Monumental stone-working, elite funerary contexts, architectural
+      imagery, chronology, engineering, and royal memory at Aksum.
+    </description>
+
+  </item>
+
+
+  <!-- ========================================================= -->
+  <!-- SERIES 03 — ALMAQAH & THE INSCRIBED RECORD               -->
+  <!-- ========================================================= -->
+
+
+  <item>
+
+    <title>
+      The Great Temple at Yeha: Architecture, Cult, and Evidence
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-almaqah-yeha.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-almaqah-yeha.html
+    </guid>
+
+    <category>
+      Almaqah &amp; the Inscribed Record
+    </category>
+
+    <description>
+      The Great Temple at Yeha examined through architecture, sanctuary
+      archaeology, Almaqah, chronology, Sabaean connections, and evidence
+      boundaries.
+    </description>
+
+  </item>
+
+
+  <item>
+
+    <title>
+      Meqaber Gaʿewa: Temple, Royal Dedication, and Almaqah
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-meqaber-gaewa.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-meqaber-gaewa.html
+    </guid>
+
+    <category>
+      Almaqah &amp; the Inscribed Record
+    </category>
+
+    <description>
+      Sanctuary archaeology, royal dedication, Almaqah, provenance, political
+      context, and regional relationships at Meqaber Gaʿewa.
+    </description>
+
+  </item>
+
+
+  <item>
+
+    <title>
+      Royal Dedications: What Ancient Inscriptions Actually Tell Us
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-royal-dedications.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-royal-dedications.html
+    </guid>
+
+    <category>
+      Almaqah &amp; the Inscribed Record
+    </category>
+
+    <description>
+      An evidence-first guide to names, titles, divine references,
+      construction acts, restoration, translation, provenance, and royal
+      claims in ancient inscriptions.
+    </description>
+
+  </item>
+
+
+  <item>
+
+    <title>
+      Almaqah: Evidence, Interpretation, and Reconstruction
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-almaqah-evidence.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-almaqah-evidence.html
+    </guid>
+
+    <category>
+      Almaqah &amp; the Inscribed Record
+    </category>
+
+    <description>
+      Secure Almaqah attestation separated from scholarly interpretation,
+      celestial identification, symbolism, comparison, and HCM
+      reconstruction.
+    </description>
+
+  </item>
+
+
+  <item>
+
+    <title>
+      Visual Epigraphy: Reading Ancient Inscriptions from Images
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-visual-epigraphy.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-visual-epigraphy.html
+    </guid>
+
+    <category>
+      Almaqah &amp; the Inscribed Record
+    </category>
+
+    <description>
+      Authentic inscription photography, preservation, transcription,
+      restoration, transliteration, provenance, and responsible digital
+      presentation.
+    </description>
+
+  </item>
+
+
+  <!-- ========================================================= -->
+  <!-- SERIES 04 — ANCIENT ASTRONOMY & CALENDAR MECHANICS       -->
+  <!-- ========================================================= -->
+
+
+  <item>
+
+    <title>
+      The 364-Day Year: Ancient Calendar Evidence and Mechanics
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-364-day-year.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-364-day-year.html
+    </guid>
+
+    <category>
+      Ancient Astronomy &amp; Calendar Mechanics
+    </category>
+
+    <description>
+      Ancient evidence for the 364-day schematic year, including 52 weeks,
+      four 91-day quarters, astronomical limits, and the boundary with
+      HCM-364.
+    </description>
+
+  </item>
+
+
+  <item>
+
+    <title>
+      The Book of Luminaries: Gates, Sun, Moon &amp; Ancient Astronomy
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-book-of-luminaries.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-book-of-luminaries.html
+    </guid>
+
+    <category>
+      Ancient Astronomy &amp; Calendar Mechanics
+    </category>
+
+    <description>
+      1 Enoch 72–82 examined through solar and lunar motion, changing day
+      length, schematic astronomy, and its six eastern and corresponding
+      western solar gates.
+    </description>
+
+  </item>
+
+
+  <item>
+
+    <title>
+      Horizon Astronomy: How Ancient Landscapes Can Track the Sun
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-horizon-astronomy.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-horizon-astronomy.html
+    </guid>
+
+    <category>
+      Ancient Astronomy &amp; Calendar Mechanics
+    </category>
+
+    <description>
+      Sunrise and sunset movement, solstices, equinoxes, azimuth, horizon
+      altitude, field observation, landscape markers, and archaeological
+      testing.
+    </description>
+
+  </item>
+
+
+  <item>
+
+    <title>
+      Venus and the Morning Star: Ancient Sky Marker &amp; HCM-364
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-venus-morning-star.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-venus-morning-star.html
+    </guid>
+
+    <category>
+      Ancient Astronomy &amp; Calendar Mechanics
+    </category>
+
+    <description>
+      Venus as the Morning and Evening Star, conjunctions, brightness,
+      its approximately 584-day synodic period, ancient interpretation,
+      and the HCM evidence boundary.
+    </description>
+
+  </item>
+
+
+  <item>
+
+    <title>
+      Testing HCM-364: Evidence, Astronomy &amp; Research Method
+    </title>
+
+    <link>
+      https://thesabaeanuniverse.com/article-testing-hcm364.html
+    </link>
+
+    <guid isPermaLink="true">
+      https://thesabaeanuniverse.com/article-testing-hcm364.html
+    </guid>
+
+    <category>
+      Ancient Astronomy &amp; Calendar Mechanics
+    </category>
+
+    <description>
+      A research framework for testing the 13 Houses × 7 Gates × 4 Elements
+      reconstruction against astronomy, archaeology, epigraphy, language,
+      chronology, and competing explanations.
+    </description>
+
+  </item>
+
+
+</channel>
+
+</rss>
