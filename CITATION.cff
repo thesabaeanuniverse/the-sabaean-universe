@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use HCM-364 in your research, please cite this work."
+title: "THE SABAEAN UNIVERSE: HCM-364 - THE HORN CELESTIAL MATRIX"
+authors:
+  - family-names: "Gebreselasse"
+    given-names: "Habtom"
+    orcid: "https://orcid.org/0009-0007-8507-9545"
+    affiliation: "Independent Researcher"
+version: "1.0"
+doi: "10.5281/zenodo.23093286"
+date-released: "2026-10-02"
+url: "https://doi.org/10.5281/zenodo.23093286"
+license: "CC-BY-4.0"
+keywords:
+  - "HCM-364"
+  - "Horn Celestial Matrix"
+  - "archaeoastronomy"
+  - "cultural astronomy"
+  - "Sabaʾ"
+  - "Horn of Africa"
+  - "ancient calendars"
+  - "calendrical systems"
+  - "Sabaean-Horn interaction"
+abstract: >-
+  HCM-364, the Horn Celestial Matrix, is a formal research framework for
+  investigating possible relationships among Sabaean-Horn cultural interaction,
+  calendrical organization, celestial classification, and observational practice.
+  The framework consists of thirteen Houses, seven Gates, and four Elements,
+  producing 364 unique coordinates.
